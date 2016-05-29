@@ -1,0 +1,89 @@
+entity_onlinking.py:234: SyntaxWarning: name 'debug' is assigned to before global declaration
+  global debug
+DEBUG:soaplib.core.service:building public methods
+DEBUG:soaplib._base:adding method '{entitylink}entitylinking'
+entity_onlinking.py:234: SyntaxWarning: name 'debug' is assigned to before global declaration
+  global debug
+DEBUG:soaplib.core.service:building public methods
+DEBUG:soaplib._base:adding method '{entitylink}entitylinking'
+DEBUG:soaplib._base:Unicode strings with encoding declaration are not supported. Please use bytes input or XML fragments without declaration. -- falling back to str decoding.
+DEBUG:soaplib._base:[92mMethod name: '{entitylink}entitylinking'[0m
+127.0.0.1 - - [16/Mar/2016 10:11:02] "POST /EntityLinking?wsdl HTTP/1.0" 200 1072
+DEBUG:soaplib._base:Unicode strings with encoding declaration are not supported. Please use bytes input or XML fragments without declaration. -- falling back to str decoding.
+DEBUG:soaplib._base:[92mMethod name: '{entitylink}entitylinking'[0m
+127.0.0.1 - - [16/Mar/2016 15:15:21] "POST /EntityLinking?wsdl HTTP/1.0" 200 1174
+DEBUG:soaplib._base:Unicode strings with encoding declaration are not supported. Please use bytes input or XML fragments without declaration. -- falling back to str decoding.
+DEBUG:soaplib._base:[92mMethod name: '{entitylink}entitylinking'[0m
+debugging...
+soap server starting......
+-1(none) for entiry not found;
+0(Polysemants) for list page;
+1(Polysemant and content) for page with Polysemant;
+5(content and label and url not Polysemant maybe synonym) for unique page
+邓小刚
+==============================================================
+status:1
+湖南商学院设计艺术学院教师	http://baike.baidu.com//subview/622261/9861080.htm
+央视制片	http://baike.baidu.com//subview/622261/9404193.htm
+西藏自治区党委副书记、政法委书记	http://baike.baidu.com/search/word?word=%E9%82%93%E5%B0%8F%E5%88%9A
+中国空气动力学专家	http://baike.baidu.com//subview/622261/7712888.htm
+海南省生态环境保护厅党组书记、厅长	http://baike.baidu.com//subview/622261/7712887.htm
+==============================================================
+
+
+空气
+==============================================================
+status:1
+金莎2005年发行专辑	http://baike.baidu.com//subview/10696/5069813.htm
+地球周围气体	http://baike.baidu.com/search/word?word=%E7%A9%BA%E6%B0%94
+2015年诺曼·瑞杜斯主演科幻电影	http://baike.baidu.com//item/%E7%A9%BA%E6%B0%94/16682978
+陈珊妮演唱歌曲	http://baike.baidu.com//item/%E7%A9%BA%E6%B0%94/17857821
+天气预报手机软件	http://baike.baidu.com//item/%E7%A9%BA%E6%B0%94/17665120
+汉语词语	http://baike.baidu.com//subview/10696/5069811.htm
+金莎演唱歌曲	http://baike.baidu.com//subview/10696/5069814.htm
+Minecraft的透明方块	http://baike.baidu.com//item/%E7%A9%BA%E6%B0%94/18150378
+==============================================================
+
+
+邓小刚	中国空气动力学专家	http://baike.baidu.com//subview/622261/7712888.htm
+空气	Minecraft的透明方块	http://baike.baidu.com//item/%E7%A9%BA%E6%B0%94/18150378
+-1(none) for entiry not found;
+0(Polysemants) for list page;
+1(Polysemant and content) for page with Polysemant;
+5(content and label and url not Polysemant maybe synonym) for unique page
+邓小刚
+==============================================================
+status:1
+湖南商学院设计艺术学院教师	http://baike.baidu.com//subview/622261/9861080.htm<-- not exist
+央视制片	http://baike.baidu.com//subview/622261/9404193.htm<-- not exist
+西藏自治区党委副书记、政法委书记	http://baike.baidu.com/search/word?word=%E9%82%93%E5%B0%8F%E5%88%9A
+中国空气动力学专家	http://baike.baidu.com//subview/622261/7712888.htm<-- not exist
+海南省生态环境保护厅党组书记、厅长	http://baike.baidu.com//subview/622261/7712887.htm<-- not exist
+==============================================================
+
+
+空气
+==============================================================
+status:1
+金莎2005年发行专辑	http://baike.baidu.com//subview/10696/5069813.htm
+地球周围气体	http://baike.baidu.com/search/word?word=%E7%A9%BA%E6%B0%94
+2015年诺曼·瑞杜斯主演科幻电影	http://baike.baidu.com//item/%E7%A9%BA%E6%B0%94/16682978
+陈珊妮演唱歌曲	http://baike.baidu.com//item/%E7%A9%BA%E6%B0%94/17857821<-- not exist
+天气预报手机软件	http://baike.baidu.com//item/%E7%A9%BA%E6%B0%94/17665120<-- not exist
+汉语词语	http://baike.baidu.com//subview/10696/5069811.htm<-- not exist
+金莎演唱歌曲	http://baike.baidu.com//subview/10696/5069814.htm<-- not exist
+Minecraft的透明方块	http://baike.baidu.com//item/%E7%A9%BA%E6%B0%94/18150378<-- not exist
+==============================================================
+
+
+邓小刚	西藏自治区党委副书记、政法委书记	http://baike.baidu.com/search/word?word=%E9%82%93%E5%B0%8F%E5%88%9A
+空气	2015年诺曼·瑞杜斯主演科幻电影	http://baike.baidu.com//item/%E7%A9%BA%E6%B0%94/16682978
+-1(none) for entiry not found;
+0(Polysemants) for list page;
+1(Polysemant and content) for page with Polysemant;
+5(content and label and url not Polysemant maybe synonym) for unique page
+邓小刚
+==============================================================
+status:1
+湖南商学院设计艺术学院教师	http://baike.baidu.com//subview/622261/9861080.htm<-- not exist
+央视制片	http://baike.baidu.

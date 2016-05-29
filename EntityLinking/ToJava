@@ -1,0 +1,25 @@
+public class Extract{
+    private String user_agent="";
+    private int status=-1;
+    private String keyword="";
+    private String tempurl="";
+    private Boolean flag=False;
+    private String url="";
+    private HashMap<String,String> poly=new
+    self.content=
+    self.poly=
+    self.synonym=
+    self.status=
+    self.poly[ll[1]]=
+    self.status=
+    self.status=
+    self.status=
+    self.content is None or self.flag=
+    self.status=
+    self.url=
+    self.status=
+    self.status!=
+    self.url=
+    self.content=
+    public Extract()
+}
